@@ -1,6 +1,7 @@
-make sure to get own omdb api key ,
+<pre>
+make sure to get own omdb api key, <a href ="http://www.omdbapi.com/">OMDB OFFCIAL WEBSITE</a> ,
 Create a Credentials.js file under Component dir, paste ur api key and export it.
-
+</pre>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

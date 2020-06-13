@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React sample app for movie search</h1>
+        <h1>React sample app for movie searchadd</h1>
       </header>
       <main>
         <Search handleinput={handleinput} searchinput={searchinput}/>
